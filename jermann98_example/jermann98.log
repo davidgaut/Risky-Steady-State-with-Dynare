@@ -1,0 +1,66 @@
+Starting preprocessing of the model file ...
+Substitution of Expectation operator: added 1 auxiliary variables and equations.
+Found 12 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+<a href="matlab: opentoline('D:\Codes\Matlab_File\Risky SteadyState\jermann98\jermann98_steadystate.m',10,1)">10  </a>options_.rss_id   = [find(moment_compute(ysdd,M_,oo_,options_))];
+dynare jermann98
+Using 64-bit preprocessor
+Starting Dynare (version 4.6.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Substitution of Expectation operator: added 1 auxiliary variables and equations.
+Found 12 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+<a href="matlab: opentoline('D:\Codes\Matlab_File\Risky SteadyState\jermann98\jermann98_steadystate.m',10,1)">10  </a>options_.rss_id   = [find(moment_compute(ysdd,M_,oo_,options_))];
+oo_
+oo_ = 
+          dynare_version: '4.6.1'
+               exo_simul: []
+              endo_simul: []
+                      dr: []
+        exo_steady_state: 0
+    exo_det_steady_state: []
+           exo_det_simul: []
+                     gui: [1x1 struct]
+            steady_state: [12x1 double]
+exdit dsge_likelihood
+ccc
+[Warning: The file
+'D:\Codes\Matlab_File\ccc.m' could not be
+cleared because it contains MATLAB code that
+is currently executing.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ccc', 'D:\Codes\Matlab_File\ccc.m', 3)" style="font-weight:bold">ccc</a> (<a href="matlab: opentoline('D:\Codes\Matlab_File\ccc.m',3,0)">line 3</a>)] 
+[Warning: The file
+'D:\Codes\Matlab_File\ccc.m' could not be
+cleared because it contains MATLAB code that
+is currently executing.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ccc', 'D:\Codes\Matlab_File\ccc.m', 3)" style="font-weight:bold">ccc</a> (<a href="matlab: opentoline('D:\Codes\Matlab_File\ccc.m',3,0)">line 3</a>)] 
+[Warning: The file
+'D:\Codes\Matlab_File\ccc.m' could not be
+cleared because it contains MATLAB code that
+is currently executing.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ccc', 'D:\Codes\Matlab_File\ccc.m', 3)" style="font-weight:bold">ccc</a> (<a href="matlab: opentoline('D:\Codes\Matlab_File\ccc.m',3,0)">line 3</a>)] 
+dynare YD_Estimation
+Using 64-bit preprocessor
+Starting Dynare (version 4.6.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 128 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
